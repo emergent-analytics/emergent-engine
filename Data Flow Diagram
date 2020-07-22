@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2020-07-22T10:01:46.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4207.0 Safari/537.36" etag="veZ3km_AojWxa1JER1Se" version="13.5.0" type="github">
+  <diagram id="2gZC4xCkloj7wIMZnU4y" name="Page-1">
+    <mxGraphModel dx="1677" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s3Yb5ll5d97BCo_epypD-1" value="Infection&lt;br&gt;Status" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="120" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3Yb5ll5d97BCo_epypD-2" value="Government&lt;br&gt;Measures" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3Yb5ll5d97BCo_epypD-3" value="" style="endArrow=classic;html=1;" parent="1" source="s3Yb5ll5d97BCo_epypD-1" target="s3Yb5ll5d97BCo_epypD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
