@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-07-30T09:23:45.013Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4216.1 Safari/537.36" etag="cyEe_KLYh1SXhh8744S5" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-30T09:29:15.529Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4216.1 Safari/537.36" etag="8dS9Zq195aS1DyZve2dO" version="13.5.5" type="github">
   <diagram id="2gZC4xCkloj7wIMZnU4y" name="Page-1">
-    <mxGraphModel dx="708" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s3Yb5ll5d97BCo_epypD-1" value="Infection&lt;br&gt;Status" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+        <mxCell id="s3Yb5ll5d97BCo_epypD-1" value="Health Risk&lt;br&gt;Index" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s3Yb5ll5d97BCo_epypD-2" value="Government&lt;br&gt;Measures &amp;amp;&lt;br&gt;Comm.&#39;s" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AfNmqyuF7CT5GizNvHW4-6" value="Economic&lt;br&gt;Reaction" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+        <mxCell id="AfNmqyuF7CT5GizNvHW4-6" value="Economic&lt;br&gt;Reaction*" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="480" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AfNmqyuF7CT5GizNvHW4-7" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="s3Yb5ll5d97BCo_epypD-2" target="AfNmqyuF7CT5GizNvHW4-6" edge="1">
@@ -113,7 +113,7 @@
         <mxCell id="AfNmqyuF7CT5GizNvHW4-19" value="Stringency" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AfNmqyuF7CT5GizNvHW4-20" value="Case numbers" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
+        <mxCell id="AfNmqyuF7CT5GizNvHW4-20" value="Health Data" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="90" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AfNmqyuF7CT5GizNvHW4-21" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AfNmqyuF7CT5GizNvHW4-19" target="s3Yb5ll5d97BCo_epypD-2" edge="1">
@@ -131,7 +131,7 @@
         <mxCell id="AfNmqyuF7CT5GizNvHW4-23" value="News, Mobility" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AfNmqyuF7CT5GizNvHW4-24" value="Indicators" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
+        <mxCell id="AfNmqyuF7CT5GizNvHW4-24" value="Economy Data" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AfNmqyuF7CT5GizNvHW4-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;" parent="1" source="AfNmqyuF7CT5GizNvHW4-24" target="AfNmqyuF7CT5GizNvHW4-6" edge="1">
@@ -176,6 +176,9 @@
               <mxPoint x="186.72" y="350.72" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uxFzLbKHNT4GKCP-jVTO-4" value="* microsimulations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="590" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
